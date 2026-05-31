@@ -36,7 +36,7 @@ This project is focused on UI design and does not include functional buttons, na
 
 ## 📸 Preview
 
-![Movie Cards UI](assets/preview.png)
+![Movie Cards UI](image/preview.png)
 
 ## 🚀 Future Improvements
 
